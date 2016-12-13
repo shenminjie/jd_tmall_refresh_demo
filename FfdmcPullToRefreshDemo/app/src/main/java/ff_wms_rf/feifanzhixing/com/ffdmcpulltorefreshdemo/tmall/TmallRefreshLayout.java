@@ -3,7 +3,7 @@ package ff_wms_rf.feifanzhixing.com.ffdmcpulltorefreshdemo.tmall;
 import android.content.Context;
 import android.util.AttributeSet;
 
-import com.chanven.lib.cptr.PtrFrameLayout;
+import in.srain.cube.views.ptr.PtrFrameLayout;
 
 
 /**

@@ -7,14 +7,14 @@ import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
 
-import com.chanven.lib.cptr.PtrDefaultHandler;
-import com.chanven.lib.cptr.PtrFrameLayout;
 
 import java.util.ArrayList;
 import java.util.List;
 
 import ff_wms_rf.feifanzhixing.com.ffdmcpulltorefreshdemo.MyAdapter;
 import ff_wms_rf.feifanzhixing.com.ffdmcpulltorefreshdemo.R;
+import in.srain.cube.views.ptr.PtrDefaultHandler;
+import in.srain.cube.views.ptr.PtrFrameLayout;
 
 public class TmallActivity extends AppCompatActivity {
 

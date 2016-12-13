@@ -8,14 +8,14 @@ import android.view.View;
 import android.widget.FrameLayout;
 import android.widget.TextView;
 
-import com.chanven.lib.cptr.PtrFrameLayout;
-import com.chanven.lib.cptr.PtrUIHandler;
-import com.chanven.lib.cptr.indicator.PtrIndicator;
 import com.facebook.drawee.backends.pipeline.Fresco;
 import com.facebook.drawee.interfaces.DraweeController;
 import com.facebook.drawee.view.SimpleDraweeView;
 
 import ff_wms_rf.feifanzhixing.com.ffdmcpulltorefreshdemo.R;
+import in.srain.cube.views.ptr.PtrFrameLayout;
+import in.srain.cube.views.ptr.PtrUIHandler;
+import in.srain.cube.views.ptr.indicator.PtrIndicator;
 
 /**
  * 下拉刷新header

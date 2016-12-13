@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">京东</string>
+    <string name="app_name">下拉刷新demo</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_tm">天猫</string>
     <string name="title_activity_home">主页</string>
