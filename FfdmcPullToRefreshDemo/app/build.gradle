@@ -1,10 +1,10 @@
-apply plugin: 'com.android.application'
+apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 24
     buildToolsVersion "24.0.2"
     defaultConfig {
-        applicationId "ff_wms_rf.feifanzhixing.com.ffdmcpulltorefreshdemo"
+//        applicationId "ff_wms_rf.feifanzhixing.com.ffdmcpulltorefreshdemo"
         minSdkVersion 15
         targetSdkVersion 24
         versionCode 1
